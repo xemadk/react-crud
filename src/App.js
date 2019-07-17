@@ -7,7 +7,6 @@ import CarList from './CarList'
 import CarCreate from './CarCreate'
 import CarUpdate from './CarUpdate'
 
-
 function App() {
   return (
     <>
